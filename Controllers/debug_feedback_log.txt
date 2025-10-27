@@ -1,0 +1,154 @@
+POST data: Array
+(
+    [aktiviti_id] => 7
+    [rating] => Array
+        (
+            [1] => 5
+            [2] => 5
+            [3] => 5
+            [4] => 5
+            [5] => 5
+        )
+
+    [review_text] => Tiada
+)
+
+Review inserted: ID = 8
+Response inserted: Q=1, R=5
+Response inserted: Q=2, R=5
+Response inserted: Q=3, R=5
+Response inserted: Q=4, R=5
+Response inserted: Q=5, R=5
+Maklum balas berjaya dihantar.
+POST data: Array
+(
+    [aktiviti_id] => 7
+    [rating] => Array
+        (
+            [1] => 5
+            [2] => 5
+            [3] => 5
+            [4] => 5
+            [5] => 5
+        )
+
+    [review_text] => Tiadaaa
+)
+
+Review inserted: ID = 9
+Response inserted: Q=1, R=5
+Response inserted: Q=2, R=5
+Response inserted: Q=3, R=5
+Response inserted: Q=4, R=5
+Response inserted: Q=5, R=5
+Maklum balas berjaya dihantar.
+POST data: Array
+(
+    [aktiviti_id] => 7
+    [rating] => Array
+        (
+            [1] => 5
+            [2] => 5
+            [3] => 5
+            [4] => 5
+            [5] => 5
+        )
+
+    [review_text] => Tiadaaa
+)
+
+Review inserted: ID = 10
+Response inserted: Q=1, R=5
+Response inserted: Q=2, R=5
+Response inserted: Q=3, R=5
+Response inserted: Q=4, R=5
+Response inserted: Q=5, R=5
+Maklum balas berjaya dihantar.
+POST data: Array
+(
+    [aktiviti_id] => 5
+    [rating] => Array
+        (
+            [1] => 5
+            [2] => 4
+            [3] => 5
+            [4] => 5
+            [5] => 5
+        )
+
+    [review_text] => Tiada
+)
+
+Review inserted: ID = 11
+Response inserted: Q=1, R=5
+Response inserted: Q=2, R=4
+Response inserted: Q=3, R=5
+Response inserted: Q=4, R=5
+Response inserted: Q=5, R=5
+Maklum balas berjaya dihantar.
+POST data: Array
+(
+    [aktiviti_id] => 20
+    [rating] => Array
+        (
+            [1] => 5
+            [2] => 5
+            [3] => 5
+            [4] => 5
+            [5] => 5
+        )
+
+    [review_text] => Tiada
+)
+
+Review inserted: ID = 12
+Response inserted: Q=1, R=5
+Response inserted: Q=2, R=5
+Response inserted: Q=3, R=5
+Response inserted: Q=4, R=5
+Response inserted: Q=5, R=5
+Maklum balas berjaya dihantar.
+POST data: Array
+(
+    [aktiviti_id] => 21
+    [rating] => Array
+        (
+            [1] => 5
+            [2] => 5
+            [3] => 5
+            [4] => 5
+            [5] => 5
+        )
+
+    [review_text] => Tiada
+)
+
+Review inserted: ID = 13
+Response inserted: Q=1, R=5
+Response inserted: Q=2, R=5
+Response inserted: Q=3, R=5
+Response inserted: Q=4, R=5
+Response inserted: Q=5, R=5
+Maklum balas berjaya dihantar.
+POST data: Array
+(
+    [aktiviti_id] => 22
+    [rating] => Array
+        (
+            [1] => 5
+            [2] => 5
+            [3] => 5
+            [4] => 5
+            [5] => 5
+        )
+
+    [review_text] => 
+)
+
+Review inserted: ID = 14
+Response inserted: Q=1, R=5
+Response inserted: Q=2, R=5
+Response inserted: Q=3, R=5
+Response inserted: Q=4, R=5
+Response inserted: Q=5, R=5
+Maklum balas berjaya dihantar.

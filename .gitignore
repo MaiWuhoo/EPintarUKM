@@ -1,0 +1,6 @@
+# Ignore database config
+includes/db.php
+
+# Ignore uploads or temp files
+uploads/
+*.log
